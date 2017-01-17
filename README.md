@@ -1,1 +1,1 @@
-dangsineun i seukeuripteureul sayonghago itda.
+Dangsineun i seukeuripteureul sayonghago itda.
