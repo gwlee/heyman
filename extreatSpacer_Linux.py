@@ -27,7 +27,7 @@ for lines in open(inputFile):
                         pass
                 else:
                         for rec in tmpData:
-                                print '>%s|%s\n%s\n\n'%(rec[0],rec[1],rec[2])
+                                print '>%s|%s\n%s\n\n'%(rec[0].replace(':','|'),rec[1],rec[2])
 
                 s = 0
 
