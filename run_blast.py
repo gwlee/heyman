@@ -1,4 +1,7 @@
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+__author__ = 'gwlee'
 
 import os,re,glob
 import multiprocessing
